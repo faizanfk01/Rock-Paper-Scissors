@@ -34,7 +34,7 @@ Test your luck and strategy against the computer in this classic game — all fr
 
 1. Clone this repository:
 
-        git clone https://github.com/USERNAME/REPO_NAME.git
+        https://github.com/faizanfk01/Rock-Paper-Scissors.git
 
     
 2. Navigate to the project folder:
